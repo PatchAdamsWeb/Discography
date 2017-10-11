@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="bootstrap-theme.css">
+    <link rel="stylesheet" href="bootstrap.css">
+    <title>Motion City Soundtrack</title>
+</head>
+<header>
+    <nav>
+        <a href="discindex.html">Home</a>
+        <a href="albums.html">Albums</a>
+        <a href="members.html">Members</a>
+    </nav>
+</header>
+<body>
+    <h1>Motion City Soundtrack</h1>
+    
+    <h4>About</h4>
+    <p>Based in Minneapolis, MN and formed in 1997. The band started out with Pierre and Cain after they both left their previous projects and it took them several years to come up with a stable line up. They started releasing music at a fast rate and touring to promote themselves. In 2001 they recorded their debut album, I Am The Movie, that would later be re-released by their first label Epitaph. After 20 years, 6 albums, multiple guest appearances and side projects the group decided to disband. They played their last show in Chicago, IL on September 20th of 2016.</p>
+
+    <h2>Members</h2>
+    <dl>
+        <dt>Justin Pierre - Vocals/Rythm Guitar</dt> <dd>Co-Founder and lead vocalist of the band. He is also known for his interests and pursuits in film making and production of music.</dd>
+        <dt>Joshua Cain - Backup Vocals/Lead Guitar</dt> <dd>Co-Founder and lead guitarist of the band. He is also a music producer who is currently helping Justin Pierre record a solo album.</dd> 
+        <dt>Jesse Johnson - Moog/Synthisizer</dt> <dd>Brought into the band just three weeks before the recording of the debut album. Does sick MOOG stands.</dd> 
+        <dt>Matt Taylor - Backup Vocals/Bass</dt> <dd>Recruited from a band that the group was touring with in the earyl 2000's, he has mad bass skills and sings on backup.</dd>
+        <dt>Tony Thaxton - Backup Vocals/Drums</dt> <dd>Recruited from a band that the group was touring with in the earyl 2000's. He also started Feliz Navipod, a year round christmas themed podcast.</dd> 
+        <dt>Claudio Riveria - Drums</dt> <dd>A longtime friend of the band and also the drummer of Saves The Day. After Tony left the group in 2013, he was recruited to play drums.</dd>
+    </dl>
+    <footer>
+    Chase Adams&copy; | For Educational Purposes Only
+    </footer>
+</body>
+</html>
